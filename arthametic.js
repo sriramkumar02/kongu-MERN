@@ -1,0 +1,46 @@
+let a = 100
+let b = 80
+console.log(a!==b)
+console.log(a<b)
+console.log(a>b)
+console.log(a<=b)
+console.log(a>=b)
+console.log(a&&b)
+console.log(a||b)
+console.log(!a)
+console.log(!b)
+console.log(a&b)
+console.log(a|b)
+console.log(a^b)
+console.log(~a)
+console.log(a<<b)
+console.log(a>>b)
+console.log(a>>>b)
+console.log(a+b)
+console.log(a-b)
+console.log(a*b)
+console.log(a/b)
+console.log(a%b)
+console.log(a**b)
+console.log(++a)
+console.log(--b)
+console.log(a++)
+console.log(b--)
+console.log(a+=b)
+console.log(a-=b)
+console.log(a*=b)
+console.log(a/=b)
+console.log(a%=b)
+console.log(a**=b)
+console.log(a==b)
+console.log(a!=b)
+console.log(a===b)
+if(a==b) {
+    console.log("a is equal to b")
+}
+else if(a!=b) {
+    console.log("a is not equal to b")
+}
+else {
+    console.log("a is not equal to b")
+}
